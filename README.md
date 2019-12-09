@@ -1,6 +1,6 @@
 # Mobile Web Specialist Certification Course
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
+
 
 ## Project Overview: Stage 1
 
@@ -10,8 +10,8 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
 
 To run this example you'll need to use a local server. The easiest way to do so is to use the chrome extension but you can launch the local http server using python and you can use Visual studio code which will serve up a live server for you. Please follow the steps mentioned below:
 
-    * Using Python HTTP server In the project folder, start up a simple HTTP server to serve up the site files on your local computer. 
+    1 Using Python HTTP server In the project folder, start up a simple HTTP server to serve up the site files on your local computer. 
 
-    * Note -  For Windows systems, Python 3.x is installed as `python` by default. To start a Python 3.x server, you can simply enter `python -m http.server 5501`.
+    2 Note -  For Windows systems, Python 3.x is installed as `python` by default. To start a Python 3.x server, you can simply enter `python -m http.server 5501`.
 
 
